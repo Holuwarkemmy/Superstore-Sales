@@ -1,4 +1,4 @@
-# 🛒 Superstore Sales Analysis Report
+# 🛒 Superstore Sales Analytics Report
 
 ## 📊 Introduction
 
@@ -114,8 +114,3 @@ To analyze superstore sales data in order to uncover business insights, evaluate
    - Reallocate shelf and promo space to high-turnover items.
 
 
-
-📁 Superstore-Sales-Analytics
-├── Superstore Sales Analytics Dashboard.png
-├── README.md
-└── Superstore.xlsx
