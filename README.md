@@ -112,5 +112,19 @@ To analyze superstore sales data in order to uncover business insights, evaluate
 5. **Optimize Inventory**  
    - Consider phasing out underperforming SKUs (e.g., **Rubber Bands**, **Labels**).
    - Reallocate shelf and promo space to high-turnover items.
+  
+
+   ## 🤖 How AI Helped Me in My Project
+
+While working on my **Superstore Sales Analytics Dashboard** for the Knowledge Showcase, AI (ChatGPT) played a huge role in:
+
+
+### ✅ Debugging Excel Formula Errors  
+I struggled with merging data across multiple sheets. AI guided me on using `XLOOKUP` and `COUNTIF` accurately, fixing lookup mismatches and helping me track return rates properly.
+
+
+### ✅ Providing Smart Recommendations  
+After building the dashboard, AI helped me *interpret the visual insights* and generate clear, actionable recommendations that added depth to my analysis.
+
 
 
